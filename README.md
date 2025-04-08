@@ -40,6 +40,8 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+#### créer la base de données entite puis importer la base de données entite (2).sql
+
 ```bash
 python app.py
 ```
